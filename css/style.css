@@ -741,7 +741,7 @@ body._lock {
 }
 
 .no-webp .ready-pancakes {
-  background: #ffffff url("../../img/pancakes/ready.png"); }
+  background: #ffffff url("../img/pancakes/ready.png"); }
 
 .ready-pancakes {
   display: block;
